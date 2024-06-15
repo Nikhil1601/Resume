@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    background-color: #f4f4f4;
+    font-size: 14px;
+}
+
+.resume {
+    max-width: 900px;
+    margin: 10px auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+    border-bottom: 1px solid #333;
+    margin-bottom: 10px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.header p {
+    margin: 3px 0;
+}
+
+.header a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 5px;
+}
+
+.header a i {
+    margin-right: 2px;
+}
+
+.section {
+    margin-bottom: 10px;
+}
+
+.section h2 {
+    border-bottom: 1px solid #333;
+    padding-bottom: 2px;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.section h3 {
+    margin: 0;
+    font-size: 14px;
+}
+
+.section .date {
+    float: right;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.section p, .section ul {
+    margin: 3px 0 5px 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 3px;
+}
